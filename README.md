@@ -10,7 +10,7 @@ The architecture layer of the first system which is HMI_ECU (Human Machine Inter
 The architecture layer of the second system which is Control_ECU:
 ![Control_ECU](https://user-images.githubusercontent.com/104661871/215108659-c6c290c5-b6e0-4779-b17e-e261dc5ddac2.png)
 
-## Screenshots of the project from Proteus
+## Screenshot of the project from Proteus
 
 ![Door security system](https://user-images.githubusercontent.com/104661871/215101577-e3218616-77c0-4961-b60a-37b6eaff2be0.png)
 
