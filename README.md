@@ -5,12 +5,14 @@ Developing a system to unlock a door using a password.
 - The project is designed and implemented based on the layered architecture.
 
 ##Human Machine Interface(HMI_ECU):
+
  This unit is just responsible of the interaction with the user through a Keypad that takes inputs, either an option or the password, and Liquid Crystal Display(LCD) screen that displays messages to the user.
 
 - The architecture layer of HMI_ECU unit:
 ![HMI_ECU-Layer-ach](https://user-images.githubusercontent.com/104661871/215106843-2d086d52-54d5-42cf-ab81-3b026c04c208.png)
 
 ##Control_ECU:
+
  This unit is responsible of all the processing and decisions in the system like password checking, comparing to that saved in the external Electrically Erasable Programmable Read-Only Memory (EEPROM), opening and closing the door through a DC-motor, and activating the system alarm.
 
 - The architecture layer of Control_ECU unit:
