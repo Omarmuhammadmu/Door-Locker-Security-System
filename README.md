@@ -4,10 +4,10 @@ Developing a system to unlock a door using a password.
 - Microcontroller: ATmega32.
 
 - The project is designed and implemented based on the layered architecture
-* The architecture layer of the first system which is HMI_ECU (Human Machine Interface):
+The architecture layer of the first system which is HMI_ECU (Human Machine Interface):
 ![HMI_ECU-Layer-ach](https://user-images.githubusercontent.com/104661871/215106843-2d086d52-54d5-42cf-ab81-3b026c04c208.png)
 
-* The architecture layer of the second system which is Control_ECU:
+The architecture layer of the second system which is Control_ECU:
 ![Control_ECU](https://user-images.githubusercontent.com/104661871/215108659-c6c290c5-b6e0-4779-b17e-e261dc5ddac2.png)
 
 ## Screenshots of the project from Proteus
