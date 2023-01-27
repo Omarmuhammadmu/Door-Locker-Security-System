@@ -7,7 +7,7 @@ The project is implemented using two ATMEGA32 microcontrollers.
 
 The architecture layer of the first system which is HMI_ECU (Human Machine Interface):
 
-![HMI_ECU Layer ach](https://user-images.githubusercontent.com/104661871/215105473-34c2e5dd-d99d-4cf3-9f1b-d1537b4c5dc6.png)
+![HMI_ECU-Layer-ach](https://user-images.githubusercontent.com/104661871/215106843-2d086d52-54d5-42cf-ab81-3b026c04c208.png)
 
 The architecture layer of the second system which is Control_ECU:
 -------------------------------------------
