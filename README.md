@@ -20,7 +20,7 @@ Control_ECU:
 
 ![Control_ECU](https://user-images.githubusercontent.com/104661871/215108659-c6c290c5-b6e0-4779-b17e-e261dc5ddac2.png)
 
-## The project schematic on the used simulation software (protues):
+## The project schematic on the used simulation software (proteus):
 
 ![Door security system](https://user-images.githubusercontent.com/104661871/215101577-e3218616-77c0-4961-b60a-37b6eaff2be0.png)
 
